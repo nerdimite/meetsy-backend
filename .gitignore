@@ -1,0 +1,7 @@
+multi-qa-mpnet-base-dot-v1/
+whisper_models/
+results/
+__pycache__/
+*.mp4
+*.mp3
+*.m4a
