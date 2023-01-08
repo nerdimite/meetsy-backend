@@ -7,7 +7,7 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 
 def invoke_gpt3(prompt, max_tokens=512, temperature=0.5):
     response = openai.Completion.create(
-        engine="text-davinci-002",
+        engine="text-davinci-003",
         prompt=prompt,
         max_tokens=max_tokens,
         temperature=temperature,
