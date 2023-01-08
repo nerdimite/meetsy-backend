@@ -1,7 +1,10 @@
 multi-qa-mpnet-base-dot-v1/
 whisper_models/
 results/
-__pycache__/
+__pycache__
 *.mp4
 *.mp3
 *.m4a
+old-server/scratchpad/async-inference.ipynb
+lambda_layer/python
+lambda_layer/python.zip
